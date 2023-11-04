@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ANIRBAN CHOWDHURY
-- 👀 I’m interested in ...PHYTHON
+- 👀 I’m interested in ...PYTHON
 - 🌱 I’m currently learning ...PYTHON
 
 <!---
