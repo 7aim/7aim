@@ -2,9 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/7aim)
 
-🎯 **Focus**: [Python]  
-💡 **Passion**: [ ]  
-🌍 **Based in**: [Baku/Azerbaijan]  
+🎯 **Focus**: ***Python***  
+🌍 **Based in**: ***Baku/Azerbaijan***
 
 ---
 
