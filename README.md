@@ -1,1 +1,1 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fcr7-vector-logo-4397.html&psig=AOvVaw0aYMEFIW1_1ryWOttOnHUE&ust=1741794757821000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCBvaKxgowDFQAAAAAdAAAAABAE)
+![](https://github.com/7aim/Python-Documents/blob/aim71/cristiano-ronaldo-cr712464.logowik.com.webp?raw=true)
