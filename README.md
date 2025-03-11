@@ -10,6 +10,8 @@
 
 ### 📫 Let's Connect  
 - 📧 [Email](mailto:7asim4@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/7aim/)
+- [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:7asim4@gmail.com)
 - ![download (2)](https://github.com/user-attachments/assets/5b77ffa7-53b2-40f9-8443-5e93eaaf1194) [Linkedin](https://www.linkedin.com/in/7aim/)
 
 
