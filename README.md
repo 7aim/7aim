@@ -2,7 +2,8 @@
 
 
 
----
+
+
 
 🎯 **Focus**: ***Python***  
 🌍 **Based in**: ***Baku/Azerbaijan***
