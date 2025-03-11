@@ -9,7 +9,6 @@
 ---
 
 ### 🎯 Codewars 
-![](https://github.com/7aim/Python-Documents/blob/aim71/giphy.gif?raw=true)
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/7im)
 
@@ -25,6 +24,8 @@
 - 📧 [Email](mailto:7asim4@gmail.com)  
 
 ---
+
+![](https://github.com/7aim/Python-Documents/blob/aim71/giphy.gif?raw=true)
 
 ![Fun GIF](https://media.giphy.com/media/your-gif-link.gif)  
 *"Talent without working hard is nothing. – Cristiano Ronaldo"*
