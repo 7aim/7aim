@@ -18,6 +18,7 @@
 ![Codewars Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2F7im&label=Rank&query=%24.ranks.overall.name&color=b1361e)
 
 ![Completed Katas](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2F7im&label=Katas&query=%24.codeChallenges.totalCompleted&color=b1361e)
+
 ---
 
 ### 📫 Let's Connect  
