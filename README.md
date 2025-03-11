@@ -10,11 +10,6 @@
 
 ### 🛠️ Tech Stack  
 ![Your Primary Language](https://img.shields.io/pypi/pyversions/:packageName)
-![Your Framework](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Database](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Tools](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-*(Add/remove badges from [shields.io](https://shields.io/))*
 
 ---
 
