@@ -20,7 +20,7 @@
 
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/7im)
 
-![Codewars Honor](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2F7imlabel=Honor&query=%24.honor&color=b1361e)
+![Codewars Honor](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2F7im&label=Honor&query=%24.honor&color=b1361e)
 
 ![Codewars Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.codewars.com%2Fapi%2Fv1%2Fusers%2F7im&label=Rank&query=%24.ranks.overall.name&color=b1361e)
 
