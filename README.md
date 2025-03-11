@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Let's Connect  
-- [![Linkedin Badge](https://img.shields.io/badge/-7aim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/7aim/)
+[![Linkedin Badge](https://img.shields.io/badge/-7aim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/7aim/)
 [![Gmail Badge](https://img.shields.io/badge/-7asim4-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:7asim4@gmail.com)
 
 
