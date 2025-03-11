@@ -8,13 +8,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 📫 Let's Connect  
 - 📧 [Email](mailto:7asim4@gmail.com)  
 
