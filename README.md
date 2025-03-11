@@ -8,11 +8,6 @@
 
 ---
 
-### 🛠️ Tech Stack  
-![Your Primary Language](https://img.shields.io/badge/Pyhon-8A2BE2)
-
----
-
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
 
