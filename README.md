@@ -10,7 +10,7 @@
 
 ### 📫 Let's Connect  
 - 📧 [Email](mailto:7asim4@gmail.com)
-- ![download (2)](https://github.com/user-attachments/assets/5b77ffa7-53b2-40f9-8443-5e93eaaf1194) [Linkedin](https://www.linkedin.com/in/7aim/)
+-  ![download (2)](https://github.com/user-attachments/assets/5b77ffa7-53b2-40f9-8443-5e93eaaf1194) [Linkedin](https://www.linkedin.com/in/7aim/)
 
 
 
