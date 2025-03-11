@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Tech Stack  
-![Your Primary Language](https://img.shields.io/pypi/pyversions/:packageName)
+![Your Primary Language](https://img.shields.io/badge/Python%20the%-8A2BE2)
 
 ---
 
