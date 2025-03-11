@@ -1,4 +1,5 @@
-# Hi there, I'm Asim <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+![Untitled38_20250312003933 (1)](https://github.com/user-attachments/assets/c9456ea6-913e-43eb-a8e7-e37c6a5b7d2c) # Hi there, I'm Asim <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/7aim)
 
