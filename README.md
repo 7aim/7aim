@@ -1,5 +1,5 @@
 # Hi there, I'm Asim 👋  
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/7aim)
 
 🎯 **Focus**: [Web Development | AI | DevOps | etc.]  
