@@ -1,11 +1,10 @@
-# Hi there, I'm [Your Name] 👋  
+# Hi there, I'm Asim 👋  
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/7aim)
 
 🎯 **Focus**: [Web Development | AI | DevOps | etc.]  
 💡 **Passion**: [Open Source | UX Design | Teaching | etc.]  
-🌍 **Based in**: [City/Country]  
+🌍 **Based in**: [Baku/Azerbaijan]  
 
 ---
 
@@ -48,5 +47,4 @@
 ![Fun GIF](https://media.giphy.com/media/your-gif-link.gif)  
 *"Insert your favorite quote here!"*
               
-              
-              ![](https://github.com/7aim/Python-Documents/blob/aim71/giphy.gif?raw=true)
+![](https://github.com/7aim/Python-Documents/blob/aim71/giphy.gif?raw=true)
