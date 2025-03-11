@@ -16,7 +16,3 @@
 *"Talent without working hard is nothing. – Cristiano Ronaldo"*
 
 ![](https://github.com/7aim/Python-Documents/blob/aim71/giphy.gif?raw=true)
-![Fun GIF](https://media.giphy.com/media/your-gif-link.gif)  
-
-              
-
